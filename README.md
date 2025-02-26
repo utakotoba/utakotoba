@@ -1,10 +1,12 @@
 <p align='center'>
-  𝑇ℎ𝑒𝑟𝑒'𝑠 𝑛𝑜 𝑔𝑟𝑒𝑎𝑡𝑒𝑟 𝑝𝑟𝑜𝑝ℎ𝑒𝑐𝑦 𝑖𝑛 𝑡ℎ𝑒 𝑤𝑜𝑟𝑙𝑑 𝑡ℎ𝑎𝑛 <ins>'𝑆𝑒𝑒 𝑦𝑜𝑢 𝑡𝑜𝑚𝑜𝑟𝑟𝑜𝑤.'</ins>
+  𝑇ℎ𝑒𝑟𝑒'𝑠 𝑛𝑜 𝑔𝑟𝑒𝑎𝑡𝑒𝑟 𝑝𝑟𝑜𝑝ℎ𝑒𝑐𝑦 𝑖𝑛 𝑡ℎ𝑒 𝑤𝑜𝑟𝑙𝑑 𝑡ℎ𝑎𝑛
+  <br />
+  <ins>'𝑆𝑒𝑒 𝑦𝑜𝑢 𝑡𝑜𝑚𝑜𝑟𝑟𝑜𝑤'</ins>
 </p>
 
 ### about me
 
-hello, this is Kohane here, a normal student from China studying computer science. i write some code, do some design and some documentation translation. these are the closest things i do in the community of development. well, i am not so good at this stuff, i just flat out do what i think i want to do on my own.
+hello, this is Kohane here, a normal student from China studying computer science. <ins>i write some code, do some design and some documentation translation</ins>. these are the closest things i do in the community of development. well, i am not so good at this stuff, i just flat out do what i think i want to do on my own.
 
 maybe i should better describe myself as a humanities student, i am better at writing (in Chinese) than coding, i study some psychology, some sociology, etc, and i am a fingerstyle guitar player with ten years of experience. i love to perceive things and to depict and convey content, which is why i'm teaching myself to compose music and draw.
 
