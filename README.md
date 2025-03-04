@@ -1,7 +1,11 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/8df5bc19-575a-476b-9992-9898227e9b61">
-  <img alt="Header" src="https://github.com/user-attachments/assets/a9681d78-7297-4da4-86ef-8e8bd6e738de">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/07ab4b52-b016-4083-90bb-b2a1d1f013ac">
+    <img alt="Header" src="https://github.com/user-attachments/assets/944d622d-68f8-4ffd-a098-ec508aaddc4e">
+  </picture>
+</div>
+
+<br />
 
 <p align='center'>
   𝑇ℎ𝑒𝑟𝑒'𝑠 𝑛𝑜 𝑔𝑟𝑒𝑎𝑡𝑒𝑟 𝑝𝑟𝑜𝑝ℎ𝑒𝑐𝑦 𝑖𝑛 𝑡ℎ𝑒 𝑤𝑜𝑟𝑙𝑑 𝑡ℎ𝑎𝑛
