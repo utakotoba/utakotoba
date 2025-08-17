@@ -6,7 +6,7 @@
 
 ### about me
 
-hello, this is Kohane here, a computer science student from China. <ins>i write some code and do some user interface design</ins>. well, i am not so good at this stuff, i just flat out do what i think i want to do on my own.
+hello, this is Kohane here, a computer science student from China. <ins>i write some code and do some user interface/experience design</ins>. indeed, i am not so good at this stuff, i just flat out do what i think i want to do on my own.
 
 i mostly do web frontend development, handling both design and coding by myself, and sometimes work on web backend development. i also use Swift to create small apple ecosystem software.
 
@@ -18,9 +18,6 @@ i'm a relatively quiet person, but i'm happy to talk with anyone, so if there's 
 
 - [work e-mail: i@aimless.sh](mailto:i@aimless.sh)
 - [personal e-mail: echo.aimless@gmail.com](mailto:echo.aimless@gmail.com)
-- [telegram (less use): @lofi_rain](https://t.me/lofi_rain)
-
-> i usually respond to emails within two days, and telegram takes  much longer.
 
 <br />
 
