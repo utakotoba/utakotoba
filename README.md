@@ -10,7 +10,7 @@ hello, this is Kohane here, a computer science student from China. <ins>i write 
 
 i mostly do web frontend development, handling both design and coding by myself, and sometimes work on web backend development. i also use Swift to create small apple ecosystem software.
 
-currently, i am mainly learning Rust and Go, and experimenting with building some embedded projects using the rust toolchain. on the other hand, i am also planning to learn some linux development.
+currently, i am mainly learning Rust and Go, and experimenting with building some embedded projects using the rust toolchain. on the other hand, i am also learn some linux development for my upcoming project in making DX hardware in embedding. 
 
 ### contacts
 
