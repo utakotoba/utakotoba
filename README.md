@@ -6,7 +6,7 @@
 
 ### about me
 
-hello, this is Kohane here, student from China Mainland. <ins>i write some code and do some user interface/experience design</ins>.
+hello, this is Kohane here, student from China Mainland. <ins>i write some code, develop some embedded devices and do some user interface/experience design</ins>.
 
 ### contacts
 
