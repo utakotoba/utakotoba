@@ -12,5 +12,4 @@ hello, this is Kohane here, student from China Mainland. <ins>i write some code,
 
 you can get in touch with me through the following:
 
-- [work e-mail: i@aimless.sh](mailto:i@aimless.sh)
-- [personal e-mail: echo.aimless@gmail.com](mailto:echo.aimless@gmail.com)
+- [work e-mail: i@aimless.sh](mailto:i@kept.to)
