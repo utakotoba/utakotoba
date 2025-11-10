@@ -12,4 +12,4 @@ hello, this is Kohane here, student from China Mainland. <ins>i write some code,
 
 you can get in touch with me through the following:
 
-- [work e-mail: i@kept.sh](mailto:i@kept.to)
+- [work e-mail: i@kept.to](mailto:i@kept.to)
