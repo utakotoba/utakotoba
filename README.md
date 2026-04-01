@@ -6,7 +6,7 @@
 
 ### about me
 
-hello, this is Ly (Ling Yu) here, student from China Mainland.
+hello, this is Ly (Ling Yu) here, indie developer.
 
 ### contacts
 
