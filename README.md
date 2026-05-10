@@ -12,4 +12,4 @@ hello, this is Ly (Ling Yu) here, indie developer.
 
 you can get in touch with me through the following:
 
-- [personal e-mail: echo.aimless@gmail.com](mailto:echo.aimless@gmail.com)
+- [work e-mail: i@letter.cafe](mailto:i@letter.cafe)
