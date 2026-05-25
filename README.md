@@ -6,7 +6,7 @@
 
 ### about me
 
-hello, this is Ly (Ling Yu) here, indie developer.
+hello, this is Yu (Ling Yu) here, indie developer.
 
 ### contacts
 
