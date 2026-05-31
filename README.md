@@ -12,4 +12,5 @@ hello, this is Yu (Ling Yu) here, indie developer.
 
 you can get in touch with me through the following:
 
-- [work e-mail: i@letter.cafe](mailto:i@letter.cafe)
+- [i@letter.cafe](mailto:i@letter.cafe) as personal
+- [rain@alphayou.io](mailto:rain@alphayou.io) as [Alpha You](https://github.com/alphayou)
