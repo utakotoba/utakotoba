@@ -12,5 +12,5 @@ hello, this is Yu (Ling Yu) here, indie developer.
 
 you can get in touch with me through the following:
 
-- [i@voidknot.com](mailto:i@voidknot.com) as personal
+- [me@iki.moe](mailto:me@iki.moe) as personal
 - [rain@alphayou.io](mailto:rain@alphayou.io) as [Alpha You](https://github.com/alphayou)
