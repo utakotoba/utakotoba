@@ -6,7 +6,13 @@
 
 ### about me
 
-hello, this is Yu (Ling Yu) here, indie developer.
+hello, this is Yu here, indie developer.
+
+### topics
+
+system, parallel computing, agent harness, developer experience
+
+graphic design, user experience, sociology, writing
 
 ### contacts
 
