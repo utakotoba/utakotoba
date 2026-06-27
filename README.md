@@ -14,6 +14,12 @@ system, parallel computing, agent harness, developer experience
 
 graphic design, user experience, sociology, writing
 
+### recent activities
+
+- [mlx-lattice](https://github.com/caelyreth/mlx-lattice) and [torch-lattice](https://github.com/caelyreth/torch-lattice) (stub currrently)
+
+  > 3D sparse convolution library for point clouds, optimized for Apple Silicon with full inference/training support and planned CUDA training on PyTorch plus deterministic conversion.
+
 ### contacts
 
 you can get in touch with me through the following:
