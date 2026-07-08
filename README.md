@@ -16,7 +16,7 @@ graphic design, user experience, sociology, writing
 
 ### recent activities
 
-- [mlx-lattice](https://github.com/caelyreth/mlx-lattice) and [torch-lattice](https://github.com/caelyreth/torch-lattice) (stub currrently)
+- [mlx-lattice](https://github.com/caelyreth/mlx-lattice) and [torch-lattice](https://github.com/caelyreth/torch-lattice)
 
   > 3D sparse convolution library for point clouds, optimized for Apple Silicon with full inference/training support and planned CUDA training on PyTorch plus deterministic conversion.
 
