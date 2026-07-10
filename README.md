@@ -22,7 +22,7 @@ graphic design, user experience, sociology, writing
 
 - [gaussfield](https://github.com/caelyreth/gaussfield) (stub currently)
 
-  > READY TO GO! Native optimized implementation of 3D Gaussian Splatting for Apple Silicon with best effort.
+  > ~~READY TO GO!~~ (Apple seems to support 3DGS rendering on OS Beta 27) ~~Native optimized implementation of 3D Gaussian Splatting for Apple Silicon with best effort.~~ Need to consider again...
 
 ### contacts
 
