@@ -18,7 +18,7 @@ graphic design, user experience, sociology, writing
 
 - [mlx-lattice](https://github.com/caelyreth/mlx-lattice) and [torch-lattice](https://github.com/caelyreth/torch-lattice)
 
-  > 3D sparse convolution library for point clouds, optimized for Apple Silicon with full inference/training support and planned CUDA training on PyTorch plus deterministic conversion.
+  > 3D sparse convolution library for point clouds, optimized for Apple Silicon with full inference/training support and a sibling CUDA implementation forked and extended from MIT's TorchSparse for training on PyTorch plus MLIR based conversion.
 
 - [gaussfield](https://github.com/caelyreth/gaussfield) (stub currently)
 
