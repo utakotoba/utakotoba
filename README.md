@@ -16,10 +16,6 @@ graphic design, user experience, sociology, writing
 
   > 3D sparse convolution library for point clouds, optimized for Apple Silicon with full inference/training support and a sibling CUDA implementation forked and extended from MIT's TorchSparse for training on PyTorch plus MLIR based conversion.
 
-- [gaussfield](https://github.com/caelyreth/gaussfield) (stub currently)
-
-  > ~~READY TO GO!~~ (Apple seems to support 3DGS rendering on OS Beta 27) ~~Native optimized implementation of 3D Gaussian Splatting for Apple Silicon with best effort.~~ Need to consider again...
-
 ### contacts
 
 you can get in touch with me through the following:
