@@ -20,8 +20,6 @@ graphic design, user experience, ~~sociology,~~ writing
 
 ### contacts
 
-you can get in touch with me through the following:
-
 - [me@iki.moe](mailto:me@iki.moe) for personal work
 - [rain@alphayou.io](mailto:rain@alphayou.io) for [Alpha You](https://github.com/alphayou) support
 
