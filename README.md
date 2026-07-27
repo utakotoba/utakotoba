@@ -2,15 +2,17 @@
 
 ### about me
 
-hello, this is Yu here, indie developer.
+hello, this is Yu here, an indie developer.
 
 ### topics
 
-system, parallel computing, neural codec, agent harness, developer experience
+system, parallel computing, ~~neural codec,~~ agent harness, developer experience
 
-graphic design, user experience, sociology, writing
+graphic design, user experience, ~~sociology,~~ writing
 
 ### recent activities
+
+- trying to code my website...
 
 - [mlx-lattice](https://github.com/caelyreth/mlx-lattice) and [torch-lattice](https://github.com/caelyreth/torch-lattice)
 
