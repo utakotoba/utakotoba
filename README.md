@@ -6,7 +6,7 @@ hello, this is Yu here, an indie developer.
 
 ### topics
 
-system, parallel computing, ~~neural codec,~~ agent harness, developer experience
+system, parallel computing, neural codec, agent harness, developer experience
 
 graphic design, user experience, ~~sociology,~~ writing
 
