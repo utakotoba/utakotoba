@@ -12,7 +12,7 @@ graphic design, user experience, ~~sociology,~~ writing
 
 ### recent activities
 
-- trying to code my website...
+- trying to ~code my website~ play shaders...
 
 - [mlx-lattice](https://github.com/caelyreth/mlx-lattice) and [torch-lattice](https://github.com/caelyreth/torch-lattice)
 
