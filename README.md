@@ -2,7 +2,7 @@
 
 ### about me
 
-hello, this is Yu here, an indie developer.
+hello, this is Yu here, an undergraduate student, an indie developer.
 
 ### topics
 
