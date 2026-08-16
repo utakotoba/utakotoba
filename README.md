@@ -12,7 +12,7 @@ graphic design, user experience, ~~sociology,~~ writing
 
 ### recent side project activities
 
-- trying to code my website
+- code my website again (hope to live in early September)
 
 - [mlx-lattice](https://github.com/caelyreth/mlx-lattice) and [torch-lattice](https://github.com/caelyreth/torch-lattice)
 
