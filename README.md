@@ -10,9 +10,9 @@ system, parallel computing, ~~neural codec~~, agent harness, developer experienc
 
 graphic design, user experience, ~~sociology,~~ writing
 
-### recent activities
+### recent side project activities
 
-- trying to ~~code my website~~ play shaders...
+- trying to code my website
 
 - [mlx-lattice](https://github.com/caelyreth/mlx-lattice) and [torch-lattice](https://github.com/caelyreth/torch-lattice)
 
