@@ -12,11 +12,9 @@ graphic design, user experience, ~~sociology,~~ writing
 
 ### recent side project activities
 
-- code my website
-
 - [mlx-lattice](https://github.com/caelyreth/mlx-lattice) and [torch-lattice](https://github.com/caelyreth/torch-lattice)
 
-  > 3D sparse convolution library for point clouds, optimized for Apple Silicon with full inference/training support and a sibling CUDA implementation forked and extended from MIT's [TorchSparse](https://github.com/mit-han-lab/torchsparse) for training on PyTorch plus [MLIR](https://mlir.llvm.org) based conversion.
+  > 3D sparse convolution library for point clouds, optimized for Apple Silicon with full inference/training support and a sibling CUDA implementation.
 
 ### contacts
 
