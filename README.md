@@ -14,12 +14,11 @@ graphic design, user experience, ~~sociology,~~ writing
 
 - [mlx-lattice](https://github.com/caelyreth/mlx-lattice) and [torch-lattice](https://github.com/caelyreth/torch-lattice)
 
-  > 3D sparse convolution library for point clouds, optimized for Apple Silicon with full inference/training support and a sibling CUDA implementation.
+  > 3D sparse convolution library for point clouds, optimized for Apple Silicon and a sibling CUDA implementation.
 
 ### contacts
 
-- [me@iki.moe](mailto:me@iki.moe) for personal work
-- [rain@alphayou.io](mailto:rain@alphayou.io) for [Alpha You](https://github.com/alphayou) support
+[me@iki.moe](mailto:me@iki.moe) for personal work, [rain@alphayou.io](mailto:rain@alphayou.io) for [Alpha You](https://github.com/alphayou) support
 
 ---
 
