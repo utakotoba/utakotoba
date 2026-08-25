@@ -20,6 +20,8 @@ graphic design, user experience, ~~sociology,~~ writing
 
 ### recent side project activities
 
+- coding the gift (?) for desktop writers
+
 - [mlx-lattice](https://github.com/caelyreth/mlx-lattice) and [torch-lattice](https://github.com/caelyreth/torch-lattice)
 
   > 3D sparse convolution library for point clouds, optimized for Apple Silicon and a sibling CUDA implementation.
