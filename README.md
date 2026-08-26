@@ -10,7 +10,9 @@
 
 ### about me
 
-hello, this is Yu here, an undergraduate student, an indie developer.
+hello, this is Yu here, an undergraduate student, an indie developer;
+
+ou can [visit my site](https://iki.moe) to check more (Chinese only currently).
 
 ### topics
 
