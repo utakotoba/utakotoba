@@ -12,7 +12,7 @@
 
 hello, this is Yu here, an undergraduate student, an indie developer;
 
-u can [visit my site](https://iki.moe) to check more (Chinese only currently).
+you can [visit my site](https://iki.moe) to check more (Chinese only currently).
 
 ### topics
 
@@ -22,7 +22,7 @@ graphic design, user experience, ~~sociology,~~ writing
 
 ### recent side project activities
 
-- coding the gift (?) for desktop writers
+- coding an app for desktop writers
 
 - [mlx-lattice](https://github.com/caelyreth/mlx-lattice) and [torch-lattice](https://github.com/caelyreth/torch-lattice)
 
